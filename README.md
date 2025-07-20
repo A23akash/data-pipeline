@@ -15,3 +15,4 @@ MENTOR : NEELA SANTOSH
 -(Generate realistic dummy employee records using the Faker library, including personal identifiable information (PII) such as names, emails, addresses, and phone numbers.)
 
 (Transform raw data to derive additional insights, such as extracting the year an employee joined or parsing email domains.) Visual Studio Code (VS Code) ##OUITPUT:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/121b7c11-c877-4ba7-a25f-513d9eda9fd1" />
